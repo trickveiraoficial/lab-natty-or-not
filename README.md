@@ -13,7 +13,7 @@ Utilizei o **grok3** para gerar imagens a partir de prompts cuidadosamente elabo
 ## 🚀 Resultados
 As imagens geradas demonstram o potencial da IA em produzir conteúdo visualmente marcante e *aesthetic*. Confira os resultados:
 
-## Imagens Geradas
+### Imagens Geradas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://i.ibb.co/xSGqYZgW/image-t.jpg" alt="Imagem 1" width="300">
@@ -21,4 +21,3 @@ As imagens geradas demonstram o potencial da IA em produzir conteúdo visualment
   <img src="https://i.ibb.co/q3x2ZjPC/image.jpg" alt="Imagem 3" width="300">
 </div>
 
-##
