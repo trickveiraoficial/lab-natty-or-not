@@ -1,4 +1,4 @@
-# Desafio FAKE or NATTY com IA
+# Desafio DIO - "Natty or Not?"
 
 ## 📒 Descrição
 Este projeto explora a geração de imagens utilizando IA generativa para criar imagens realistas.
@@ -11,7 +11,7 @@ Este projeto explora a geração de imagens utilizando IA generativa para criar 
 Utilizei o **grok3** para gerar imagens a partir de prompts cuidadosamente elaborados, com o objetivo de evocar uma estética única e visualmente impactante. Após a geração, selecionei as imagens que melhor representavam a visão do projeto e as hospedei no **ImgBB** para facilitar o acesso e o compartilhamento.
 
 ## 🚀 Resultados
-As imagens geradas demonstram o potencial da IA em produzir conteúdo visualmente marcante e *aesthetic*. Confira o banner abaixo:
+As imagens geradas demonstram o potencial da IA em produzir conteúdo visualmente marcante e *realista*. Confira o banner abaixo:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://ibb.co/chKM96hS">
